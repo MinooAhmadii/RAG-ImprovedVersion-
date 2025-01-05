@@ -13,7 +13,7 @@ col1, col2 = st.columns([1, 2])
 with col1:
     st.write("")
     st.write("")  
-    st.image("FaceBase.png", use_container_width=True)  # Fixed deprecated parameter
+    st.image("FaceBase.png", use_column_width=True)
 with col2:
     st.write("") 
     st.title("FaceBase Chatbot")
