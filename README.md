@@ -6,6 +6,12 @@ A chatbot system that leverages Large Language Models (LLMs) and Retrieval-Augme
 
 This project addresses the challenge of discovering specialized biomedical data within complex repositories. By combining OpenAI's GPT-3.5-turbo with RAG techniques and FAISS vector search, the chatbot enables researchers to query the FaceBase dataset using natural language and receive relevant, contextual responses.
 
+## Example
+
+![FaceBase Chatbot Interface](example.png)
+
+*Example query: "What is the impact of Phelan-McDermid Syndrome on growth rates"*
+
 ## Features
 
 - **Natural Language Querying**: Interpret complex research queries using LLMs
